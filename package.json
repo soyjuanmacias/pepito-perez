@@ -1,6 +1,6 @@
 {
   "name": "pepito-perez",
-  "version": "1.3.6",
+  "version": "1.3.7",
   "description": "A package for demos and npm install pepe",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/soyjuanmacias/pepe.git"
+    "url": "git+https://github.com/soyjuanmacias/pepito-perez.git"
   },
   "keywords": [
     "pepe"
