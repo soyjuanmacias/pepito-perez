@@ -1,11 +1,11 @@
-# PEPE
+# PEPITO PEREZ
 
-Hi, ¿Are you talking about pepe in your demo?
+Hi, ¿Are you talking about pepito perez in your demo?
 
-Here i am, i am pepe, the best package of npm. 
+Here i am, i am pepito perez, the best package of npm. 
 
 Now you can have a few laughts typing
 
 ```
-npm install --save pepe
+npm install --save pepito-perez
 ```
