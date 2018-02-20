@@ -1,6 +1,6 @@
 {
   "name": "pepito-perez",
-  "version": "1.3.7",
+  "version": "2.0.1",
   "description": "A package for demos and npm install pepe",
   "main": "index.js",
   "scripts": {
